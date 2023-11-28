@@ -2,6 +2,7 @@
 
 
 #Make sure you give atleast 3GB Ram to Nexus :(
+#Connect to Nexus via PORT:8081
 echo "#######JAVA AND NEXUS INSTALLATION##########
 yum install java-1.8.0-openjdk.x86_64 wget -y   
 mkdir -p /opt/nexus/   
